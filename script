@@ -1,0 +1,12 @@
+#!/bin/bash
+# A simple variable example
+pip install virtualenv
+virtualenv venv
+source venv/bin/activate
+
+pip install -r requirements.txt
+
+python main.py
+deactivate
+rm -rf cookies/
+rm -rf venv
