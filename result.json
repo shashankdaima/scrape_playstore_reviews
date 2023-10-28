@@ -1,0 +1,294 @@
+[
+    [
+        {
+            "reviews": "While calculating fare or checking route between I.P. extn. and Delhi gate shortest root, app has a bug and it crashes every time and closes, asks to clear the Cache of the device. Other routes may be affected for the same, but not checked. If required can share the screenshot for the same.",
+            "category": "Bug Report",
+            "ai-confidence": 0.9,
+            "result": "Action: Investigate the reported bug and work on a fix."
+        },
+        {
+            "reviews": "Nearest metro station is the stupidest button. Useless. I don't want to check from my location. No option to put location in the app. 3rd class app.",
+            "category": "Feature Request",
+            "ai-confidence": 0.8,
+            "result": "Action: Consider implementing location-based features or improving the user interface."
+        },
+        {
+            "reviews": "DMRC needs to check the bug in their app. Until validity of one ticket, you can't book other ticket, in my case when I book a return ticket, a popup comes 'you already have an active ticket please use it before generating a new ticket' and that ticket I already used. I talked to the station master, he told me to take a ticket from the counter. It will not be booked.",
+            "category": "Bug Report",
+            "ai-confidence": 0.9,
+            "result": "Action: Investigate the ticket booking issue and resolve it."
+        },
+        {
+            "reviews": "Very helpful for people who need instant metro route and also for ones that are not good with reading map lines.",
+            "category": "Other",
+            "ai-confidence": 0.7,
+            "result": null
+        },
+        {
+            "reviews": "Pretty detailed app, much appreciated. The only problem is the recharge of metro card which fails every time. Delhi metro should really make it easier to top up cards online or via UPI. It's too much hassle at the moment.",
+            "category": "Bug Report",
+            "ai-confidence": 0.8,
+            "result": "Action: Improve the online top-up process for metro cards to reduce issues."
+        },
+        {
+            "reviews": "1. 'First and Last Metro' section is showing error for more than 2 weeks and now under Updation. Do you understand the importance of services provided for some reason. Which is lacking for such a long time. Pls! Resolve it ASAP. 2. App is not very quick/instant to show Route. Loading makes us feel like using an old lagging Phone. Pls! Look into the response time of App.",
+            "category": "Bug Report",
+            "ai-confidence": 0.9,
+            "result": "Action: Prioritize resolving the errors in the 'First and Last Metro' section and improve app response time."
+        },
+        {
+            "reviews": "Last version was very good.. It takes more time and need internet connectivity... Older version was simple and best.. Now I uninstalled this app.",
+            "category": "Other",
+            "ai-confidence": 0.7,
+            "result": null
+        },
+        {
+            "reviews": "Better make a wallet system in which a customer could add an amount and then can scan the QR code at the station which will deduct the amount according to the travel at the destination. Min balance could be 10 rupees and in case balance is low, will display a low balance message and not allow entry/exit. Addon of checking the best route according to time/money was good.",
+            "category": "Feature Request",
+            "ai-confidence": 0.8,
+            "result": "Action: Consider implementing a wallet system for easier fare payment and route options."
+        },
+        {
+            "reviews": "One important thing you should add is that which side of the train the doors will open. That will be more convenient for the users. Thanks.",
+            "category": "Feature Request",
+            "ai-confidence": 0.8,
+            "result": "Action: Consider adding information about door locations for user convenience."
+        },
+        {
+            "reviews": "It is a very bad app, if you book tickets, the money would have been deducted, but the tax code does not come, brothers, do not use this app.",
+            "category": "Bug Report",
+            "ai-confidence": 0.9,
+            "result": "Action: Investigate the issue with ticket booking and ensure that tax codes are provided correctly."
+        },
+        {
+            "reviews": "Aqua line stations are not updated in this app. But this app is good to navigate through metro.",
+            "category": "Feature Request",
+            "ai-confidence": 0.7,
+            "result": "Action: Update the app to include Aqua line stations for a more comprehensive navigation experience."
+        },
+        {
+            "reviews": "Finding your platform on metro stations sure is a pain. The app makes everything really easy. The only thing is that sometimes the route shown in the app might be the one where you have to change stations more than an alternative route but that doesn't really increase any cost and if you travel regularly, finding alternative routes won't be tough.",
+            "category": "Feature Request",
+            "ai-confidence": 0.7,
+            "result": "Action: Enhance the platform finding feature and review route suggestions for optimal user experience."
+        },
+        {
+            "reviews": "Super App work, it helped a lot during the metro.",
+            "category": "Other",
+            "ai-confidence": 0.6,
+            "result": null
+        },
+        {
+            "reviews": "Worst experience after update. The app takes very much time to navigate the route between stations. And always buffering. It even doesn't show the first and the last timing of the Qutub Minar. 😠😠",
+            "category": "Bug Report",
+            "ai-confidence": 0.8,
+            "result": "Action: Investigate and address the issues with app navigation and buffering, and ensure accurate timing information."
+        },
+        {
+            "reviews": "What's the benefit of service alert ⚠️, as it's not updated either during delays in the Blue Line many times also.",
+            "category": "Other",
+            "ai-confidence": 0.6,
+            "result": null
+        },
+        {
+            "reviews": "This is a very good app for people and very supportive; everyone can use it easily. The government is doing great work for the people. Modi government is the very best government.",
+            "category": "Other",
+            "ai-confidence": 0.7,
+            "result": null
+        },
+        {
+            "reviews": "Very simple to use. This app makes it easier for the tourists to visit places in Delhi 👌🙏🏻.",
+            "category": "Feature Request",
+            "ai-confidence": 0.7,
+            "result": "Action: Consider further improvements to cater to tourists and enhance the user experience."
+        },
+        {
+            "reviews": "This is the worst app. I missed my exam due to this app. Interchange of metro is missing in this map. Worst app.",
+            "category": "Bug Report",
+            "ai-confidence": 0.8,
+            "result": "Action: Investigate and address the issue of missing interchange information in the app."
+        },
+        {
+            "reviews": "Everything is working even in offline mode, but I would suggest you guys to please add language options.",
+            "category": "Feature Request",
+            "ai-confidence": 0.7,
+            "result": "Action: Consider adding language options to enhance accessibility and user experience."
+        },
+        {
+            "reviews": "I could have given ratings in minus if possible. I was traveling from Dwarka to Sikandarpur for an interview, it showed the shortest route via Rajeev Chowk. One of my co-passengers guided me to change the line at Rajouri Garden, which will save me at least 40 minutes. And it worked. Poor ratings for misguiding and incomplete details.",
+            "category": "Bug Report",
+            "ai-confidence": 0.8,
+            "result": "Action: Investigate and improve route recommendations to avoid misguiding users."
+        }
+    ],
+    [
+        {
+            "reviews": "Very small font, directions are not clear... Useless",
+            "category": "Bug Report",
+            "ai-confidence": 0.8,
+            "result": "Action: Investigate the issues related to small font and unclear directions."
+        },
+        {
+            "reviews": "Great job with the update.! But After I select my destination, and the app shows the route, please put an option of 'Choose some other route' Suppose, I am going from Station A to B. I might have a particular route in mind. But the app shows only two routes - shortest and with minimum interchanges. So, if I want to take a route different from these 2, I don't get any info about it. (The tickets, interchanges, fare etc). There should be an option to select other metro lines for the route.",
+            "category": "Feature Request",
+            "ai-confidence": 0.9,
+            "result": "Action: Consider adding an option to choose other routes and provide detailed information for alternative routes."
+        },
+        {
+            "reviews": "The latest build looks awesome. Everything under one roof. The loading time may have got increased by some seconds.",
+            "category": "Other",
+            "ai-confidence": 0.7,
+            "result": null
+        },
+        {
+            "reviews": "It does not show the platform number which we are supposed to take while changing to a different line. Other than that the app is perfect.",
+            "category": "Feature Request",
+            "ai-confidence": 0.8,
+            "result": "Action: Consider adding platform information for better user experience."
+        },
+        {
+            "reviews": "Awesome UI and detailed information. Update*: I think instead of launching a new app for QR ticket generation, that feature should have added to this app. Why are you leaving this app useless.",
+            "category": "Feature Request",
+            "ai-confidence": 0.8,
+            "result": "Action: Consider integrating QR ticket generation into this app for user convenience."
+        },
+        {
+            "reviews": "Very bad experience. My card was not working. I have shown it on the token counter but there was no solution. My balance was above 200 which is totally finished.",
+            "category": "Bug Report",
+            "ai-confidence": 0.8,
+            "result": "Action: Investigate and resolve the issues with non-working cards and balance depletion."
+        },
+        {
+            "reviews": "Very poor app . Works very slow old version was far better . This version is good for nothing just colourful interface and nothing.",
+            "category": "Bug Report",
+            "ai-confidence": 0.8,
+            "result": "Action: Investigate and address the performance issues and user feedback on the new version."
+        },
+        {
+            "reviews": "Everything is good about this app, but the Route after the completion of Pink Line between Trilokpuri and Mayur Vihar Pocket I has yet not been updated since 2 months. Because of this I was so confused as I am new to Delhi Metro. So, please update it soon.",
+            "category": "Feature Request",
+            "ai-confidence": 0.7,
+            "result": "Action: Consider updating the app with information about the new Pink Line route for user clarity."
+        },
+        {
+            "reviews": "The earlier version gave details of all the routes available and one could choose as per their convenience. It was a helpful feature. Now it only shows one recommended route. There is no option to even pick the different route and check how much time it will take. Please bring back that feature.",
+            "category": "Feature Request",
+            "ai-confidence": 0.8,
+            "result": "Action: Consider providing multiple route options for user convenience and restoring the previous feature."
+        },
+        {
+            "reviews": "There was just no need to update the previous version. The best thing about that was its simplicity and ease to use. This version, in an attempt to provide more info and stylish look, has made this app worse. I had been using that version for so long and had just no complaints with it. Please revert to previous version or I'll have no option but to switch to some other app.",
+            "category": "Feature Request",
+            "ai-confidence": 0.8,
+            "result": "Action: Consider user feedback and the possibility of reverting to a simpler and more user-friendly design."
+        },
+        {
+            "reviews": "The Delhi Metro Rail app by Delhi Metro Rail Corporation is a true lifesaver for commuters in the city. It provides real-time information on train schedules, station details, and even offers route planning, making my daily commute a breeze. The intuitive interface ensures a smooth user experience, and the accuracy of the updates is impressive. This app is an essential companion for anyone navigating the Delhi Metro system, and it has greatly simplified my travel routine. Highly recommended!",
+            "category": "Other",
+            "ai-confidence": 0.9,
+            "result": null
+        },
+        {
+            "reviews": "Old version was better and fast and it worked offline. I would be better if offline mode is available in latest version.",
+            "category": "Feature Request",
+            "ai-confidence": 0.8,
+            "result": "Action: Consider adding an offline mode for the app for user convenience."
+        },
+        {
+            "reviews": "All metro stations not available in this app",
+            "category": "Bug Report",
+            "ai-confidence": 0.8,
+            "result": "Action: Investigate and address the issue of missing metro stations in the app."
+        },
+        {
+            "reviews": "It's very convenient. Very helpful app. You can just type your source and destination. It tells us the shortest route, travel time, fare, number of stations, and interchange between source to destination.",
+            "category": "Other",
+            "ai-confidence": 0.9,
+            "result": null
+        },
+        {
+            "reviews": "Disappointed with the pathetic application. Wasted 1 hour due to application glitch.",
+            "category": "Bug Report",
+            "ai-confidence": 0.8,
+            "result": "Action: Investigate the application glitch and work on improvements."
+        },
+        {
+            "reviews": "The app is definitely very useful for someone new to the metro culture but has some flaws which you get to know about when you get used to this culture of metro. Like it will show many unnecessary interchanges at various stations but will definitely take you there. Accuracy is 100 percent but the route shown is a bit longer or shows more interchanges.",
+            "category": "Other",
+            "ai-confidence": 0.7,
+            "result": null
+        },
+        {
+            "reviews": "The app works perfect for even the odd ones out.",
+            "category": "Other",
+            "ai-confidence": 0.7,
+            "result": null
+        },
+        {
+            "reviews": "New Update sucks and was not needed. I understand a lot of people are using this app, but the people who need this most are not that tech-savvy. They just need a lightweight, simple app that can show them the route. You can make a separate app for advanced users if you want. Please reverse the UI back to the previous one. Thanks.",
+            "category": "Feature Request",
+            "ai-confidence": 0.8,
+            "result": "Action: Consider user feedback and the possibility of reverting to a simpler and more user-friendly design."
+        },
+        {
+            "reviews": "This new app is taking too long time to respond and on the show route and fare page, only route is showing. In the previous version, it is also showing how much distance in KMs and how many total stations with count are there in between two stations, but in the new version, it is not showing. Kindly update accordingly.",
+            "category": "Bug Report",
+            "ai-confidence": 0.8,
+            "result": "Action: Investigate the response time issue and restore missing information in the app."
+        },
+        {
+            "reviews": "Appreciate the new update! Much better experience and hasn't crashed yet. UI is slightly overcomplicated - such as the date and time picker when you just want to find routes. If it could be less disruptive with the service unavailable popup, it would be great. Love to see how the team actually listened to user issues",
+            "category": "Other",
+            "ai-confidence": 0.9,
+            "result": null
+        },
+        {
+            "reviews": "Superb APP, one-stop guide for Delhi Metro.",
+            "category": "Other",
+            "ai-confidence": 0.7,
+            "result": null
+        },
+        {
+            "reviews": "This app is not so helpful because many pieces of information are wrong.",
+            "category": "Bug Report",
+            "ai-confidence": 0.8,
+            "result": "Action: Investigate and rectify the incorrect information in the app."
+        },
+        {
+            "reviews": "I used this app for at least 1 year and it's good with no glitch 😌",
+            "category": "Other",
+            "ai-confidence": 0.8,
+            "result": null
+        },
+        {
+            "reviews": "This is a very good app for those who are new in Delhi and don't know about anything of metro rail in Delhi. So this app is very helpful and useful for guidance.",
+            "category": "Other",
+            "ai-confidence": 0.8,
+            "result": null
+        },
+        {
+            "reviews": "Previous version was accurate and time-saving. In this version, the route between stations is showing totally inaccurate, like on the blue line from Shadipur to Vaishali, which is a direct route on the same blue line and no need for interchange. The app shows a VERY VERY LONG route through the red line and other lines which takes 73 minutes. Overall, this version is fully misleading, at least for new commuters and somehow for old ones too. My suggestion is to remove this version and keep the previous version.",
+            "category": "Bug Report",
+            "ai-confidence": 0.8,
+            "result": "Action: Investigate and address the inaccuracies in route information and consider user feedback."
+        },
+        {
+            "reviews": "The old version was very easy and fast working.... You have to think about it, otherwise many people will switch to the alternative.",
+            "category": "Feature Request",
+            "ai-confidence": 0.8,
+            "result": "Action: Consider user feedback and the possibility of simplifying the app for better user experience."
+        },
+        {
+            "reviews": "Overall good app. Must include the following points: 1. Recent Searched routes included for easy selection rather than typing the same station name again. 2. Route Options should be mentioned as an icon all the time while viewing the route (like Google Maps). 3. While searching the station, ask for the date, as on some line services start at different times in view of working or non-working days. 4. Always show the first and last service time of that date from origin and return from destination.",
+            "category": "Feature Request",
+            "ai-confidence": 0.8,
+            "result": "Action: Consider adding requested features for improved user experience."
+        },
+        {
+            "reviews": "New update of the app is very bad; the previous version was good, lightweight, and the design was good with color map while searching. This version has an improved map but searching is very slow, and in the previous version, we could click on the station to search, but now we can't. Something called beta testing, please do this before any update. Thanks. I know the pressure on the developing team.",
+            "category": "Bug Report",
+            "ai-confidence": 0.8,
+            "result": "Action: Investigate and address the issues related to slow searching and consider user feedback for future updates."
+        }
+    ]
+]

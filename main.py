@@ -12,8 +12,8 @@ chromeOptions.add_experimental_option(
 )
 chromeOptions.add_argument("--no-sandbox")
 chromeOptions.add_argument("--disable-setuid-sandbox")
-chromeOptions.add_argument("--headless=new")
-chromeOptions.add_argument("--remote-debugging-port=9222")  
+# chromeOptions.add_argument("--headless=new")
+chromeOptions.add_argument("--remote-debugging-port=9222")
 
 chromeOptions.add_argument("--disable-dev-shm-using")
 chromeOptions.add_argument("--disable-extensions")
@@ -42,11 +42,11 @@ outer_div_for_reviews = driver.find_element(
 time.sleep(2)
 review_set = set([])
 
-while True:
+with open("output.txt", "w") as file:
     review_divs = outer_div_for_reviews.find_elements(By.TAG_NAME, "div")
     try:
         for index, review_div in enumerate(review_divs):
-            print(f"{index+1}",len(review_divs))
+            print(f"{index+1}", len(review_divs))
             if index != 0 and index % 40 == 0:
                 driver.execute_script(
                     "arguments[0].scrollBy(0,12000);", outer_div_for_reviews
@@ -63,16 +63,18 @@ while True:
             rating_string = review_div.find_element(
                 By.XPATH,
                 f"/html/body/div[4]/div[2]/div/div/div/div/div[2]/div/div[2]/div[{index+1}]/header/div[2]/div",
-            ).text
+            ).get_attribute("aria-label")
 
             review = review_div.find_element(
                 By.XPATH,
                 f"/html/body/div[4]/div[2]/div/div/div/div/div[2]/div/div[2]/div[{index+1}]/div[1]",
             ).text
-            review_set.add(Review(name, review, date_string, rating_string))
-        break
-    except:pass
 
+            # print(name, review, date_string, rating_string)
+            # review_set.add(Review(name, review, date_string, rating_string))
+            file.write(f"\n{review}\n" if index % 10 == 0 else f"{review}\n")
+    except:
+        pass
 
 
 """

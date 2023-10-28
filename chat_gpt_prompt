@@ -1,0 +1,19 @@
+Certainly, here are your instructions for using the API:
+
+- **Task:** Categorize Google Play Store app reviews for the DMRC's Delhi Metro app into one of four categories: "Bug Report," "Feature Request," "Bullshitting," or "Other."
+
+- **Input:** Provide a list of text messages (reviews) from Google Play Store app reviews for the DMRC's Delhi Metro app.
+
+- **Output:** Return a JSON containing the categorized reviews, AI confidence scores, and a "result" string indicating potential actions where applicable.
+
+- **Categories:** 
+  - "Bug Report" for reviews reporting issues or bugs in the app.
+  - "Feature Request" for reviews suggesting new features or improvements.
+  - "Bullshitting" for reviews that don't provide meaningful feedback.
+  - "Other" for reviews that don't fit into the above categories.
+
+- **AI Confidence:** Provide an AI confidence score (0-1) for each categorization to indicate the model's confidence in its classification.
+
+- **Actions (Optional):** Suggest potential actions based on the review category. For example, "Action: Investigate the reported bug and work on a fix."
+
+To use the API, you can provide a list of reviews as input, and I will categorize them, provide AI confidence scores, and suggest actions based on the content.
